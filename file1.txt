@@ -1,9 +1,6 @@
 This is my first sentence
 Snep ish bwead = bweadSnep! Yay!
-<<<<<<< HEAD
 WORDS
-=======
->>>>>>> mybranch
 if derg
 	then enjoy snepbwead
 	
